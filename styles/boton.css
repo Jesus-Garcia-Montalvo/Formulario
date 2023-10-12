@@ -1,0 +1,48 @@
+.submit {
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #d1d1d1;
+  padding: 8px 0px 5px;
+  margin-bottom: 20px;
+
+  font-family: "open sans";
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.submit[type="submit"] {
+  width: 180px;
+  background: #4091ec;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+
+  color: #fff;
+  font-family: "open sans";
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.submit[type="submit"]:hover {
+  background: #337186;
+}
+
+.submit[type="botton"] {
+  width: 180px;
+  background: #4091ec;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+
+  color: #fff;
+  font-family: "open sans";
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.submit[type="botton"]:hover {
+  background: #337186;
+}
